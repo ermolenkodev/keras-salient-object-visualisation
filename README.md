@@ -1,4 +1,6 @@
-# keras-salient-object-visualization
+# [DEPRECATED] keras-salient-object-visualization
+This implementation is obsolete. Please consider using more advanced prediction explainability tools, e.g., https://github.com/slundberg/shap
+
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/bgGEonerPiw/0.jpg)](https://youtu.be/bgGEonerPiw "Donkey car network visualization based on Nvidia paper")
 
 Keras implementation of nvidia paper 'Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car'.
